@@ -1,0 +1,36 @@
+# Node
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# Build
+dist/
+build/
+
+# Python/ML
+__pycache__/
+.ipynb_checkpoints/
+*.pth
+*.h5
+*.pt
+*.model
+
+# IDE
+.vscode/
+.idea/
+
+# Data
+data/
+datasets/
